@@ -1,0 +1,12 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "chat app using nodejs and websockets ",
+  "main": "index.js",
+  "author": "hager khaled",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}
